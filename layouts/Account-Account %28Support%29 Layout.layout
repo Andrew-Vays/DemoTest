@@ -51,10 +51,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>CustomerPriority__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>SLA__c</field>
             </layoutItems>
             <layoutItems>
